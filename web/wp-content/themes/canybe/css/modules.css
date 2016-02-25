@@ -1,0 +1,57 @@
+
+/********** MAIN MENU *********/
+#main_menu {
+  text-align: center;
+}
+
+#main_menu ul {
+  display: inline-block;
+  list-style: none; 
+}
+
+* html #main_menu ul { /* Target IE6 */
+  display: inline;
+}
+
+* html #main_menu ul { /* Target IE7 */
+  display: inline;
+}
+
+#main_menu li {
+  display: inline;
+}
+
+#main_menu a {
+  float: left;
+  text-decoration: none; 
+  padding: 30px 50px;
+}
+/******** END MAIN MENU *******/
+
+
+/********** FOOTER MENU *********/
+
+#footer_menu ul {
+  display: inline-block;
+  list-style: none; 
+}
+
+* html #footer_menu ul { /* Target IE6 */
+  display: inline;
+}
+
+* html #footer_menu ul { /* Target IE7 */
+  display: inline;
+}
+
+#footer_menu li {
+  display: inline;
+}
+
+#footer_menu a {
+  float: left;
+  text-decoration: none; 
+  padding: 20px 40px;
+}
+
+/******** END FOOTER MENU *******/

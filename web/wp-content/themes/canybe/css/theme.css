@@ -1,0 +1,26 @@
+
+@font-face {
+  font-family: 'helvetica_lt_bold';
+  src: url('assets/helveticaltstd-bold-webfont.ttf');
+}
+
+@font-face {
+  font-family: 'helvetica_lt_light';
+  src: url('assets/helveticaltstd-light-webfont.ttf');
+}
+
+@font-face {
+  font-family: 'helvetica_lt_roman';
+  src: url('assets/helveticaltstd-roman-webfont.ttf');
+}
+
+body{
+  font-family: 'helvetica_lt_roman', sans-serif;
+  font-size: 1em;
+  background-color:#FFFFFF;
+}
+
+#main_menu{
+  background-color:#DFDFDF;
+}
+

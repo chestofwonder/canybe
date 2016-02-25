@@ -1,10 +1,10 @@
-<?php get_header(); ?>
+<?php
 
-<?php 
+get_header();
+
 $post = get_post();
 
-echo $post->post_content; 
-?>
+echo do_shortcode($post->post_content);
 
-<?php get_footer();
+get_footer();
 
