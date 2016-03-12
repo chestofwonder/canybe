@@ -55,3 +55,30 @@
 }
 
 /******** END FOOTER MENU *******/
+
+
+/********* CONTACT FORM *********/
+
+#contact_form{
+  position:absolute;
+  bottom:0;
+  padding:35px 0;
+  text-align:center;
+  width:100%;
+}
+
+#contact_form label{
+  margin-right:1%;
+  margin-left:2%;
+}
+
+#contact_form input[type="text"]{
+  padding:10px;
+}
+
+#btnContact{
+  padding:10px 15px;
+  margin-left:2%;
+}
+
+/******* END CONTACT FORM *******/

@@ -14,7 +14,8 @@ function custom_theme_setup() {
   
   register_nav_menus( array(
 	'main_menu' => 'Main Navigation Menu',
-	'footer_menu' => 'Footer Navigation Menu'
+	'footer_menu' => 'Footer Navigation Menu',
+  'footer_legal_menu' => 'Footer Legal Menu'
 ) );
 }
 

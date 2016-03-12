@@ -4,3 +4,27 @@
   text-align: left;;
 }
 
+.wrapper_section_content{
+   padding:65px 1%;
+}
+
+.horizontal_list {
+  text-align:center;
+  margin-top:75px;
+}
+
+.horizontal_list li{
+  display:inline-block;
+  margin:0 2%;
+  vertical-align: top;
+}
+
+.vertical_list{
+  display:inline-block;
+}
+
+.vertical_list li{
+  margin:0 2%;
+  vertical-align: top;
+}
+
